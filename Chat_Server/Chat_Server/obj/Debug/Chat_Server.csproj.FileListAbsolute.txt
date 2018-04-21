@@ -1,0 +1,7 @@
+D:\Users\Filip\Desktop\App\Chat_Server\Chat_Server\bin\Debug\Chat_Server.exe.config
+D:\Users\Filip\Desktop\App\Chat_Server\Chat_Server\bin\Debug\Chat_Server.exe
+D:\Users\Filip\Desktop\App\Chat_Server\Chat_Server\bin\Debug\Chat_Server.pdb
+D:\Users\Filip\Desktop\App\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csprojResolveAssemblyReference.cache
+D:\Users\Filip\Desktop\App\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.CoreCompileInputs.cache
+D:\Users\Filip\Desktop\App\Chat_Server\Chat_Server\obj\Debug\Chat_Server.exe
+D:\Users\Filip\Desktop\App\Chat_Server\Chat_Server\obj\Debug\Chat_Server.pdb

@@ -1,0 +1,14 @@
+Server was started at : 06:42:41
+Za 45 minut odbeda sie prace konserwacyjne !
+Za 30 minut odbeda sie prace konserwacyjne !
+Za 15 minut odbeda sie prace konserwacyjne !
+Za 10 minut odbeda sie prace konserwacyjne !
+Za 5 minut odbeda sie prace konserwacyjne !
+Za 4 minut odbeda sie prace konserwacyjne !
+Za 3 minut odbeda sie prace konserwacyjne !
+Za 2 minut odbeda sie prace konserwacyjne !
+Za 1 minut odbeda sie prace konserwacyjne !
+Listener was closed at : 06:43:13
+Receiver was closed at : 06:43:13
+Updater was closed at : 06:43:13
+Server was started at : 06:43:14
